@@ -1,0 +1,1 @@
+This e-commerce website project aims to create a fully functional online store where users can browse through various products, add them to their cart, and proceed to checkout. The project will be built using HTML, CSS, and JavaScript to ensure a responsive and interactive user experience across different devices.
